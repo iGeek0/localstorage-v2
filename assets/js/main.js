@@ -72,3 +72,7 @@ txtPelicula.addEventListener("keypress", function (event) {
         guardar();
     }
 });
+
+
+// Agregar evento enter
+// Agregar que no permita agregar una pelicula previamente agregada
